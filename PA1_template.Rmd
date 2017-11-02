@@ -1,6 +1,6 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: 
+Title: "Reproducible Research: Peer Assessment 1"
+Output: 
   html_document: 
     keep_md: true
 ---
