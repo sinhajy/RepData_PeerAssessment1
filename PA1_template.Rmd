@@ -1,10 +1,9 @@
 ---
 Title: "Reproducible Research: Peer Assessment 1"
 Output: 
-  distance:
-  html_document:
+  html_document:"Reproducible Research: Peer Assessment 1.html"
   
-    keep_md: true
+keep_md: true
 ---
 
 
